@@ -40,6 +40,7 @@ items:
  - maczokni/r-socialsci
  - CJWorkbench
  - CullenBoldt/CSSproject
+ - sagepublishing/Bernauer-DQTAwR-draft-chapters-2019
  
 display_name: Teaching materials for computational social science
 created_by: danielagduca
